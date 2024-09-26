@@ -12,6 +12,7 @@
   background-color: gainsboro;
   background-image: url("https://media.discordapp.net/attachments/1234274284776587365/1288728953858822244/Screenshot_2024-09-25_144148.png?ex=66f63dde&is=66f4ec5e&hm=97e748f4083c165113e6eaf8b1823a35a6762bc7a82be403a0bce8a1e4ffbac0&=&format=webp&quality=lossless&width=830&height=398");
   background-attachment: fixed;
+  background-repeat: no-repeat;
   color: white;
 }
 
