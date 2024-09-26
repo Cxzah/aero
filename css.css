@@ -7,6 +7,11 @@
   background-color: red;
 }
 
+/* chat messages */
+.scrollerInner_e2e187 {
+  background-color: rgba(0,0,0, 0.5);
+}
+
 /* main messages */
 .chatContent_a7d72e {
   background-color: gainsboro;
